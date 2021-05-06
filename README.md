@@ -1,2 +1,2 @@
 # autoqa
-GL Course Become QA Auto
+GL Course Pro-Camp 2021
